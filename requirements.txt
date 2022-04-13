@@ -1,3 +1,2 @@
 #add any project dependencies here
-django>=3.2gi
-requirements.txt
+django>=3.2
