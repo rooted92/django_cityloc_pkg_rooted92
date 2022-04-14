@@ -6,8 +6,8 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule:: django_cityloc_pkg
-   :members:rooted92
+.. automodule:: django_cityloc_pkg_rooted92
+   :members:
 
 Indices and tables
 ==================
